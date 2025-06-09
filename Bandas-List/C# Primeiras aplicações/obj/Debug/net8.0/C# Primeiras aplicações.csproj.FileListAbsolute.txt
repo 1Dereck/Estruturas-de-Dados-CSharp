@@ -1,0 +1,14 @@
+Z:\Alura C#\C# Criando sua primeira aplicação\C# Primeiras aplicações\bin\Debug\net8.0\C# Primeiras aplicações.exe
+Z:\Alura C#\C# Criando sua primeira aplicação\C# Primeiras aplicações\bin\Debug\net8.0\C# Primeiras aplicações.deps.json
+Z:\Alura C#\C# Criando sua primeira aplicação\C# Primeiras aplicações\bin\Debug\net8.0\C# Primeiras aplicações.runtimeconfig.json
+Z:\Alura C#\C# Criando sua primeira aplicação\C# Primeiras aplicações\bin\Debug\net8.0\C# Primeiras aplicações.dll
+Z:\Alura C#\C# Criando sua primeira aplicação\C# Primeiras aplicações\bin\Debug\net8.0\C# Primeiras aplicações.pdb
+Z:\Alura C#\C# Criando sua primeira aplicação\C# Primeiras aplicações\obj\Debug\net8.0\C# Primeiras aplicações.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Alura C#\C# Criando sua primeira aplicação\C# Primeiras aplicações\obj\Debug\net8.0\C# Primeiras aplicações.AssemblyInfoInputs.cache
+Z:\Alura C#\C# Criando sua primeira aplicação\C# Primeiras aplicações\obj\Debug\net8.0\C# Primeiras aplicações.AssemblyInfo.cs
+Z:\Alura C#\C# Criando sua primeira aplicação\C# Primeiras aplicações\obj\Debug\net8.0\C# Primeiras aplicações.csproj.CoreCompileInputs.cache
+Z:\Alura C#\C# Criando sua primeira aplicação\C# Primeiras aplicações\obj\Debug\net8.0\C# Primeiras aplicações.dll
+Z:\Alura C#\C# Criando sua primeira aplicação\C# Primeiras aplicações\obj\Debug\net8.0\refint\C# Primeiras aplicações.dll
+Z:\Alura C#\C# Criando sua primeira aplicação\C# Primeiras aplicações\obj\Debug\net8.0\C# Primeiras aplicações.pdb
+Z:\Alura C#\C# Criando sua primeira aplicação\C# Primeiras aplicações\obj\Debug\net8.0\C# Primeiras aplicações.genruntimeconfig.cache
+Z:\Alura C#\C# Criando sua primeira aplicação\C# Primeiras aplicações\obj\Debug\net8.0\ref\C# Primeiras aplicações.dll
