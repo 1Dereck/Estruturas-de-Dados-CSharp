@@ -1,10 +1,13 @@
-﻿using System;
+using System;
 
-public class ClinicoGeral
+namespace ProjetoHospital
 {
-    public void Atender(Paciente paciente)
+    public class ClinicoGeral
     {
-        Console.WriteLine($"\n👨‍⚕️ Atendendo paciente: {paciente.Nome}...");
-        Console.WriteLine("Consulta finalizada.");
+        public void Atender(Paciente paciente)
+        {
+            Console.WriteLine($"\n👨‍⚕️ Atendendo paciente: {paciente.Nome}...");
+            Console.WriteLine("Consulta finalizada.");
+        }
     }
 }
