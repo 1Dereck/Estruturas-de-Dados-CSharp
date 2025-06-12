@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Dev\\Aps pt2\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC9A1A5-EBBF-433B-9FBE-0ACD42D9424E}|ConsoleApp1.csproj|e:\\dev\\aps pt2\\consoleapp1\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC9A1A5-EBBF-433B-9FBE-0ACD42D9424E}|ConsoleApp1.csproj|solutionrelative:paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC9A1A5-EBBF-433B-9FBE-0ACD42D9424E}|ConsoleApp1.csproj|e:\\dev\\aps pt2\\consoleapp1\\filaatendimentoprioridade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC9A1A5-EBBF-433B-9FBE-0ACD42D9424E}|ConsoleApp1.csproj|solutionrelative:filaatendimentoprioridade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC9A1A5-EBBF-433B-9FBE-0ACD42D9424E}|ConsoleApp1.csproj|e:\\dev\\aps pt2\\consoleapp1\\clinicogeral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC9A1A5-EBBF-433B-9FBE-0ACD42D9424E}|ConsoleApp1.csproj|solutionrelative:clinicogeral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC9A1A5-EBBF-433B-9FBE-0ACD42D9424E}|ConsoleApp1.csproj|e:\\dev\\aps pt2\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC9A1A5-EBBF-433B-9FBE-0ACD42D9424E}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC9A1A5-EBBF-433B-9FBE-0ACD42D9424E}|ConsoleApp1.csproj|e:\\dev\\aps pt2\\consoleapp1\\gerenciadortriagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC9A1A5-EBBF-433B-9FBE-0ACD42D9424E}|ConsoleApp1.csproj|solutionrelative:gerenciadortriagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC9A1A5-EBBF-433B-9FBE-0ACD42D9424E}|ConsoleApp1.csproj|e:\\dev\\aps pt2\\consoleapp1\\historicoatendimentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC9A1A5-EBBF-433B-9FBE-0ACD42D9424E}|ConsoleApp1.csproj|solutionrelative:historicoatendimentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC9A1A5-EBBF-433B-9FBE-0ACD42D9424E}|ConsoleApp1.csproj|e:\\dev\\aps pt2\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AEC9A1A5-EBBF-433B-9FBE-0ACD42D9424E}|ConsoleApp1.csproj|solutionrelative:consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClinicoGeral.cs",
+              "DocumentMoniker": "E:\\Dev\\Aps pt2\\ConsoleApp1\\ClinicoGeral.cs",
+              "RelativeDocumentMoniker": "ClinicoGeral.cs",
+              "ToolTip": "E:\\Dev\\Aps pt2\\ConsoleApp1\\ClinicoGeral.cs",
+              "RelativeToolTip": "ClinicoGeral.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:54:52.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FilaAtendimentoPrioridade.cs",
+              "DocumentMoniker": "E:\\Dev\\Aps pt2\\ConsoleApp1\\FilaAtendimentoPrioridade.cs",
+              "RelativeDocumentMoniker": "FilaAtendimentoPrioridade.cs",
+              "ToolTip": "E:\\Dev\\Aps pt2\\ConsoleApp1\\FilaAtendimentoPrioridade.cs",
+              "RelativeToolTip": "FilaAtendimentoPrioridade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:54:35.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "E:\\Dev\\Aps pt2\\ConsoleApp1\\Paciente.cs",
+              "RelativeDocumentMoniker": "Paciente.cs",
+              "ToolTip": "E:\\Dev\\Aps pt2\\ConsoleApp1\\Paciente.cs",
+              "RelativeToolTip": "Paciente.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:53:50.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Dev\\Aps pt2\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Dev\\Aps pt2\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAQwIIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:52:03.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GerenciadorTriagem.cs",
+              "DocumentMoniker": "E:\\Dev\\Aps pt2\\ConsoleApp1\\GerenciadorTriagem.cs",
+              "RelativeDocumentMoniker": "GerenciadorTriagem.cs",
+              "ToolTip": "E:\\Dev\\Aps pt2\\ConsoleApp1\\GerenciadorTriagem.cs",
+              "RelativeToolTip": "GerenciadorTriagem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:54:08.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HistoricoAtendimentos.cs",
+              "DocumentMoniker": "E:\\Dev\\Aps pt2\\ConsoleApp1\\HistoricoAtendimentos.cs",
+              "RelativeDocumentMoniker": "HistoricoAtendimentos.cs",
+              "ToolTip": "E:\\Dev\\Aps pt2\\ConsoleApp1\\HistoricoAtendimentos.cs",
+              "RelativeToolTip": "HistoricoAtendimentos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:55:15.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConsoleApp1.csproj",
+              "DocumentMoniker": "E:\\Dev\\Aps pt2\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1.csproj",
+              "ToolTip": "E:\\Dev\\Aps pt2\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-06T13:24:16.277Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
