@@ -1,27 +1,30 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
-public class HistoricoAtendimentos
+namespace ProjetoHospital
 {
-    private List<Paciente> pacientesAtendidos = new List<Paciente>();
-
-    public void AdicionarPacienteAtendido(Paciente paciente)
+    public class HistoricoAtendimentos
     {
-        pacientesAtendidos.Add(paciente);
-    }
+        private List<Paciente> pacientesAtendidos = new List<Paciente>();
 
-    public void ExibirHistoricoDetalhado()
-    {
-        Console.WriteLine("\n--- Histórico de Pacientes Atendidos ---");
-        if (pacientesAtendidos.Count == 0)
+        public void AdicionarPacienteAtendido(Paciente paciente)
         {
-            Console.WriteLine("Nenhum paciente foi atendido ainda.");
-            return;
+            pacientesAtendidos.Add(paciente);
         }
 
-        foreach (var paciente in pacientesAtendidos)
+        public void ExibirHistoricoDetalhado()
         {
-            Console.WriteLine(paciente);
+            Console.WriteLine("\n--- Histórico de Pacientes Atendidos ---");
+            if (pacientesAtendidos.Count == 0)
+            {
+                Console.WriteLine("Nenhum paciente foi atendido ainda.");
+                return;
+            }
+
+            foreach (var paciente in pacientesAtendidos)
+            {
+                Console.WriteLine(paciente);
+            }
         }
     }
 }
