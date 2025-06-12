@@ -29,7 +29,7 @@ O foco é aplicar e reforçar conceitos como:
 O projeto `Hospital-XD/Aps pt2` foi desenvolvido em equipe como parte de uma atividade prática da faculdade.
 
 Participantes desta parte:
-
+- [@1Dereck](https://github.com/1Dereck) (eu)
 - [@Danields1](https://github.com/Danields1)
 - [@rafa_bigode](https://github.com/rafa_bigode)
 - [@Koda-Mode](https://github.com/Koda-Mode)  
