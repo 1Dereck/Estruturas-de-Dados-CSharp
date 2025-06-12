@@ -32,6 +32,7 @@ Participantes desta parte:
 
 - [@Danields1](https://github.com/Danields1)
 - [@rafa_bigode](https://github.com/rafa_bigode)
-- Outro integrante será adicionado assim que o nome de usuário for informado.
+- [@Koda-Mode](https://github.com/Koda-Mode)  
+- [@Goliver7](https://github.com/Goliver7)
 
 Todas as demais partes do repositório foram desenvolvidas **individualmente por mim**.
