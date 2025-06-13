@@ -26,7 +26,7 @@ O foco é aplicar e reforçar conceitos como:
 
 ## 👥 Créditos e Colaboração
 
-O projeto `Hospital-XD/Aps pt2` foi desenvolvido em equipe como parte de uma atividade prática da faculdade.
+O projeto `Hospital-XD/Aps pt2`, `PRojeto 11` e `Veiculo-CSharp`  foi desenvolvido em equipe como parte de uma atividade prática da faculdade.
 
 Participantes desta parte:
 - [@1Dereck](https://github.com/1Dereck) (eu)
