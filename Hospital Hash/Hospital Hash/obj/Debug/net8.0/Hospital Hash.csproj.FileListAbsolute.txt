@@ -1,0 +1,14 @@
+C:\Alura C#\Hospital Hash\Hospital Hash\bin\Debug\net8.0\Hospital Hash.exe
+C:\Alura C#\Hospital Hash\Hospital Hash\bin\Debug\net8.0\Hospital Hash.deps.json
+C:\Alura C#\Hospital Hash\Hospital Hash\bin\Debug\net8.0\Hospital Hash.runtimeconfig.json
+C:\Alura C#\Hospital Hash\Hospital Hash\bin\Debug\net8.0\Hospital Hash.dll
+C:\Alura C#\Hospital Hash\Hospital Hash\bin\Debug\net8.0\Hospital Hash.pdb
+C:\Alura C#\Hospital Hash\Hospital Hash\obj\Debug\net8.0\Hospital Hash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alura C#\Hospital Hash\Hospital Hash\obj\Debug\net8.0\Hospital Hash.AssemblyInfoInputs.cache
+C:\Alura C#\Hospital Hash\Hospital Hash\obj\Debug\net8.0\Hospital Hash.AssemblyInfo.cs
+C:\Alura C#\Hospital Hash\Hospital Hash\obj\Debug\net8.0\Hospital Hash.csproj.CoreCompileInputs.cache
+C:\Alura C#\Hospital Hash\Hospital Hash\obj\Debug\net8.0\Hospital Hash.dll
+C:\Alura C#\Hospital Hash\Hospital Hash\obj\Debug\net8.0\refint\Hospital Hash.dll
+C:\Alura C#\Hospital Hash\Hospital Hash\obj\Debug\net8.0\Hospital Hash.pdb
+C:\Alura C#\Hospital Hash\Hospital Hash\obj\Debug\net8.0\Hospital Hash.genruntimeconfig.cache
+C:\Alura C#\Hospital Hash\Hospital Hash\obj\Debug\net8.0\ref\Hospital Hash.dll
