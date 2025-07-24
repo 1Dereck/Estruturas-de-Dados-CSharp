@@ -1,3 +1,11 @@
+<h1 align="center">🧠 Estruturas de Dados - C#</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="120" alt="CSharp Logo"/>
+</p>
+
+---
+
 # Estruturas de Dados - CSharp
 
 Este repositório foi criado com o objetivo de **praticar estruturas de dados em C#** ao longo da disciplina de **Estrutura de Dados** do curso de Engenharia de Software.
