@@ -1,0 +1,50 @@
+using System;
+using System.Collections.Generic;
+
+namespace List_001
+{
+    class Paciente
+    {
+        static void Main()
+        {
+            //Criando uma lista de inteiros chamado idade
+            List<int> idade = new List<int>();
+
+            //adicionando idades na lista IDADE
+            idade.Add(21);
+            idade.Add(12);
+            idade.Add(32);
+            idade.Add(55);
+
+
+            //Mostrar todos os itens dentro da Lista
+            Console.WriteLine("---------- Mostrar todos os itens dentro da Lista ----------");
+            foreach (int idades in idade)
+            {
+                Console.WriteLine($"\tIdade: {idades}");
+            }
+
+
+            //Remover item especifico
+            idade.Remove(21);
+            idade.Remove(55);
+
+
+            //Acessar item por posução (índice)
+            Console.WriteLine("\n\n---------- Acessar item por posição (índice) ----------");
+            int ultimo = idade[1];
+
+            Console.WriteLine($"Ultimo número: {ultimo}");
+
+            // Saber quantos itens tem na lista
+            Console.WriteLine("\n\n---------- Saber quantos itens tem na lista ----------");
+            Console.WriteLine($"Quantidade de números: {idade.Count}");
+            
+
+
+            Console.ReadKey();
+        }
+        
+
+    }
+}
