@@ -1,0 +1,34 @@
+namespace ConsoleApp1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Bem Vindo ao ByteBank, Atendimento.");
+            TestaArray();
+
+            void TestaArray ()
+            {
+                int[] idades = new int[5];
+
+                idades[0] = 30;
+                idades[1] = 21;
+                idades[2] = 24;
+                idades[3] = 28;
+                idades[4] = 67;
+                
+                Console.WriteLine($"Tamanho do array {idades.Length}");
+                int armazenarIdades = 0;
+
+                for (int i = 0; i < idades.Length; i++)
+                {
+                    int idade = idades[i];
+                    Console.WriteLine($"Idade [{i + 1}] = {idades[i]}");
+                    armazenarIdades += idade;
+                }
+                int media = armazenarIdades / idades.Length;
+                Console.WriteLine($"Media de idade = {media}");
+            }
+        }
+    }
+}
